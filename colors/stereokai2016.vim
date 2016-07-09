@@ -17,7 +17,7 @@ highlight CursorLine ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#373736
 highlight CursorLineNR ctermfg=231 ctermbg=NONE cterm=NONE guifg=#f8f8f2 guibg=NONE gui=NONE
 highlight CursorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#373736 gui=NONE
 highlight ColorColumn ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#373736 gui=NONE
-highlight LineNr ctermfg=245 ctermbg=59 cterm=NONE guifg=#75715e guibg=#373736 gui=NONE
+highlight LineNr ctermfg=245 ctermbg=233 cterm=NONE guifg=#75715e guibg=#121212 gui=NONE
 highlight VertSplit ctermfg=59 ctermbg=59 cterm=NONE guifg=#5f5f5e guibg=#5f5f5e gui=NONE
 highlight MatchParen ctermfg=197 ctermbg=NONE cterm=NONE guifg=#f92672 guibg=#5f5f5e gui=NONE
 highlight StatusLine ctermfg=231 ctermbg=59 cterm=NONE guifg=#f8f8f2 guibg=#5f5f5e gui=NONE
@@ -122,7 +122,7 @@ highlight jsNoise ctermfg=197 ctermbg=NONE cterm=NONE guifg=#ff005f guibg=NONE g
 highlight jsNull ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
 highlight jsObjectKey ctermfg=186 ctermbg=NONE cterm=NONE guifg=#e6db74 guibg=NONE gui=NONE
 highlight jsRepeat ctermfg=197 ctermbg=NONE cterm=NONE guifg=#ff005f guibg=NONE gui=NONE
-highlight jsFuncArgs ctermfg=208 ctermbg=NONE cterm=NONE guifg=#ff8700 guibg=NONE gui=NONE
+highlight jsRequire ctermfg=81 ctermbg=NONE cterm=NONE guifg=#5fd7ff guibg=NONE gui=NONE
 highlight jsSuper ctermfg=197 ctermbg=NONE cterm=NONE guifg=#ff005f guibg=NONE gui=NONE
 highlight jsThis ctermfg=148 ctermbg=NONE cterm=NONE guifg=#afd700 guibg=NONE gui=NONE
 highlight jsUndefined ctermfg=141 ctermbg=NONE cterm=NONE guifg=#ae81ff guibg=NONE gui=NONE
